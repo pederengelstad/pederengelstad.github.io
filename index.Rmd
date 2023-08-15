@@ -1,0 +1,141 @@
+---
+title: "Peder Engelstad"
+image: "39351080.jpeg"
+# color1: "grey"
+# color2: "green"
+angle: 90
+links:
+  - label: '<i class="ai ai-google-scholar-square ai-3x" style="color:#4387f6"></i>'
+    url: "https://scholar.google.com/citations?user=kR_0IvYAAAAJ&hl=en"
+  - label: '<i class="ai ai-researchgate-square ai-3x" style="color:#00a39e"></i>'
+    url: "https://www.researchgate.net/profile/Peder-Engelstad"
+  - label: '<i class="fa fa-github fa-3x" style="color:#4B0082;"></i>'
+    url: "https://github.com/pederengelstad"
+  - label: '<i class="fa-brands fa-linkedin fa-3x" style="color:#0c64c4"></i>'
+    url: "https://www.linkedin.com/in/peder-engelstad/"
+  - label: '<i class="fa-brands fa-mastodon fa-3x" style="color:#595aff"></i>'
+    url: "https://ecoevo.social/\\@pederengelstad"
+  - label: '<i class="fa-regular fa-envelope fa-3x"></i>'
+    url: "mailto:peder.engelstad@colostate.edu"
+output:
+  postcards::trestles
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+<script src="https://kit.fontawesome.com/cf9d584ea2.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+## About Me
+
+I am a Research Associate in the <a href="https://www.vogelerlab.com/" target="_blank">Vogeler Lab</a> and a PhD student in the <a href="https://ecology.colostate.edu/" target="_blank">Graduate Degree Program in Ecology</a> at Colorado State University in Fort Collins, CO. I am also the primary developer on the <a href="https://gis.usgs.gov/inhabit" target="_blank"> Invasive Species Habitat Tool (INHABIT)</a>, a web-based decision support tool hosted by the USGS.
+
+
+$~$
+
+## Education
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+
+|              |               |                    |
+| ------------ | ------------- | ------------------ |
+| PhD - Ecology &nbsp; &nbsp; | Colorado State University | 2026 (anticipated)|
+|     &nbsp; &nbsp;   |   &nbsp; &nbsp;  |  &nbsp; &nbsp;   |
+| MS - Watershed Science       | Colorado State University    | 2018    |
+|     &nbsp; &nbsp;   |   &nbsp; &nbsp;  |  &nbsp; &nbsp;   |
+| BA - Anthropology       | University of Wisconsin-Madison    | 2006    |
+
+
+$~$
+
+## Publications
+
+
+##### <u>Accepted/In Press</u>
+
+<font size=-0.5>
+**Engelstad, P.**, Carver, D., & Young, N.E. Working With GPS and Weather Data. In *Earth Engine Fundamentals and Applications*. J. Cardille, M. Crowley, D. Saah, N. Clinton (eds.). Springer.
+
+**Engelstad, P.**, Carver, D, & Young, NE. Creating Presence and Absence Points. In *Earth Engine Fundamentals and Applications*. J. Cardille, M. Crowley, D. Saah, N. Clinton (eds.). Springer.
+
+
+<br>
+
+
+##### <u>Peer-Reviewed Journal Articles</u>
+
+<ol reversed>
+  <li>
+Burner, R.C., Daniel, W.M., **Engelstad, P.S.**, Churchill, C.J., & Erickson, R.A. (2023). BioLake: A First Assessment of Lake Temperature-Derived Bioclimatic Predictors for Aquatic Invasive Species. *Ecosphere* 14(7): e4616. <a href="https://doi.org/10.1002/ecs2.4616" target="_blank">https://doi.org/10.1002/ecs2.4616</a>
+  </li>
+<br>
+  <li>
+Beaury, E.M., Jarnevich, C.S., Pearse, I., Evans, A.E., Teich, N., **Engelstad, P.**, LaRoe, J., & Bradley, B.A. (2023). Modeling habitat suitability across different levels of invasive plant abundance. *Biological Invasions* 1-13. <a href="https://doi.org/10.1007/s10530-023-03118-z" target="_blank">https://doi.org/10.1007/s10530-023-03118-z</a>
+  </li>
+<br>
+  <li>
+Jarnevich, C., **Engelstad, P.**, LaRoe, J., Hays, B., Hogan, T., Jirak, J., Pearse, I., Prevéy, J., Sieracki, J., Simpson, A., Wenick, J., Young, N., & Sofaer, H. R. (2023). Invaders at the doorstep: Using species distribution modeling to enhance invasive plant watch lists. *Ecological Informatics*, 101997. <a href="https://doi.org/10.1016/j.ecoinf.2023.101997" target="_blank">https://doi.org/10.1016/j.ecoinf.2023.101997</a>
+  </li>
+<br>
+  <li>
+**Engelstad P.**, Jarnevich C.S., Hogan T., Sofaer H.R., Pearse I.S., et al. (2022). INHABIT: A web-based decision support tool for invasive plant species habitat visualization and assessment across the contiguous United States. *PLOS ONE* 17(2): e0263056.
+<a href="https://doi.org/10.1371/journal.pone.0263056" target="_blank">https://doi.org/10.1371/journal.pone.0263056</a>
+  </li>
+<br>
+  <li>
+Erickson, R.A., **Engelstad, P.S.**, Jarnevich, C.S., Sofaer, H.R., & Daniel, W.M. (2022). Climate matching with the climatchR R package. *Environmental Modelling & Software*, 10551 <a href="https://doi.org/10.1016/j.envsoft.2022.105510" target="_blank">https://doi.org/10.1016/j.envsoft.2022.105510</a>
+  </li>
+<br>
+  <li>
+Jarnevich, C.S., Sofaer H.R., **Engelstad P.**, & Belamaric, P. (2022). Regional models do not outperform continental models for invasive species. *Neobiota*. <a href="https://doi.org/10.3897/neobiota.77.86364" target="_blank">https://doi.org/10.3897/neobiota.77.86364</a>
+  </li>
+<br>
+  <li>
+Jarnevich, C.S., Sofaer, H.R., & **Engelstad, P**. (2021). Modelling presence versus abundance for invasive species risk assessment.
+*Diversity and Distributions*, 27(12), 2454-2464. <a href="https://doi.org/10.1111/ddi.13414" target="_blank">https://doi.org/10.1111/ddi.13414</a>
+  </li>
+<br>
+  <li>
+Young, N.E., Jarnevich, C.S., Sofaer, H.R., Pearse, I., Sullivan, J., **Engelstad, P.**, & Stohlgren, T.J. (2020). A modeling workflow that balances automation and human intervention to inform invasive plant management decisions at multiple spatial scales. *PLOS ONE*, 15(3), e0229253. <a href="https://doi.org/10.1371/journal.pone.0229253" target="_blank">https://doi.org/10.1371/journal.pone.0229253</a>
+  </li>
+<br>
+  <li>
+**Engelstad, P.S.**, Falkowski, M.J., D'Amato, A.W., Slesak, R.A., Palik, B.J., Domke, G.M. & Russell, M.B. (2019). Mapping black ash dominated stands using geospatial and forest inventory data in northern Minnesota, USA. *Canadian Journal of Forest Research*, 48(8), 892-902. <a href="https://doi.org/10.1139/cjfr-2018-0481" target="_blank">https://doi.org/10.1139/cjfr-2018-0481</a>
+  </li>
+<br>
+  <li>
+**Engelstad, P.S.**, Falkowski, M., Wolter, P., Poznanovic, A., & Johnson, P. (2019). Estimating canopy fuel attributes from low-density LiDAR. *Fire*, 2(3), 38. <a href="https://doi.org/10.3390/fire2030038" target="_blank">https://doi.org/10.3390/fire2030038</a>
+  </li>
+<br>
+  <li>
+Woodward, B., **Engelstad, P.**, Vorster, A., Beddow, C., Krail, S., Vashisht, A., & Evangelista, P. (2017). Forest harvest dataset for northern Colorado Rocky Mountains (1984--2015) generated from a Landsat time series and existing forest harvest records. *Data in brief*, 15, 724-727. <a href="https://doi.org/10.1016/j.dib.2017.10.030" target="_blank">https://doi.org/10.1016/j.dib.2017.10.030</a>
+  </li>
+</ol>
+<br>
+
+<br>
+
+## Software & Datasets
+
+<ol reversed>
+  <li>
+**Engelstad P.**, Jarnevich, C., Sofaer, H., Daniel, W., Peterman, L., Erickson, R.A. (2023). climatchR: An implementation of CLIMATCH in R. v2.0. U.S. Geological Survey software release. Reston, VA. <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">https://doi.org/10.5066/P9ILPPTC</a>
+  </li>
+<br>
+  <li>
+Jarnevich, C.S., LaRoe, J., **Engelstad, P.**, Hays, B., Henderson, G., Williams, D., Shadwell, K., Pearse, I.S., Prevey, J.S.,  & Sofaer, H.R. (2023). INHABIT species potential distribution across the contiguous United States (ver. 3.0, February 2023): U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P9V54H5K" target="_blank">https://doi.org/10.5066/P9V54H5K</a>
+  </li>
+<br>
+  <li>
+Evans, A., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., & Bradley, B.A. (2022). Shifting hotspots: Climate change projected to drive contractions and expansions of invasive plant abundance ranges. *Data and Datasets*. 157. <a href="https://doi.org/10.7275/f172-4c95" target="_blank">https://doi.org/10.7275/f172-4c95</a>
+  </li>
+<br>
+
+</font>
+

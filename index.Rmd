@@ -45,7 +45,7 @@ td, th {
 
 |              |               |                    |
 | ------------ | ------------- | ------------------ |
-| PhD - Ecology &nbsp; &nbsp; | Colorado State University | 2026 (anticipated)|
+| PhD - Ecology &nbsp; &nbsp; | Colorado State University | 2027 (anticipated)|
 |     &nbsp; &nbsp;   |   &nbsp; &nbsp;  |  &nbsp; &nbsp;   |
 | MS - Watershed Science       | Colorado State University    | 2018    |
 |     &nbsp; &nbsp;   |   &nbsp; &nbsp;  |  &nbsp; &nbsp;   |
@@ -57,15 +57,7 @@ $~$
 ## Publications
 
 
-##### <u>Accepted/In Press</u>
-
-<font size=-0.5>
-**Engelstad, P.**, Carver, D., & Young, N.E. Working With GPS and Weather Data. In *Earth Engine Fundamentals and Applications*. J. Cardille, M. Crowley, D. Saah, N. Clinton (eds.). Springer.
-
-**Engelstad, P.**, Carver, D, & Young, NE. Creating Presence and Absence Points. In *Earth Engine Fundamentals and Applications*. J. Cardille, M. Crowley, D. Saah, N. Clinton (eds.). Springer.
-
-
-<br>
+<!-- ##### <u>Accepted/In Press</u> -->
 
 
 ##### <u>Peer-Reviewed Journal Articles</u>
@@ -121,6 +113,21 @@ Woodward, B., **Engelstad, P.**, Vorster, A., Beddow, C., Krail, S., Vashisht, A
 
 <br>
 
+## Book Chapters
+
+<ol reversed>
+  <li>
+  **Engelstad, P.**, Carver, D., & Young, N. E. (2024). Creating Presence and Absence Points. In J. A. Cardille, M. A. Crowley, D. Saah, & N. E. Clinton (Eds.), *Cloud-Based Remote Sensing with Google Earth Engine* (pp. 1133–1155). Springer International Publishing. <a href="https://doi.org/10.1007/978-3-031-26588-4_52" target="_blank">https://doi.org/10.1007/978-3-031-26588-4_52</a>
+  </li>
+<br>
+  <li>
+**Engelstad, P.**, Carver, D., & Young, N. E. (2024). Working with GPS and Weather Data. In J. A. Cardille, M. A. Crowley, D. Saah, & N. E. Clinton (Eds.), *Cloud-Based Remote Sensing with Google Earth Engine* (pp. 1121–1131). Springer International Publishing. <a href="https://doi.org/10.1007/978-3-031-26588-4_51" target="_blank">https://doi.org/10.1007/978-3-031-26588-4_51</a>
+  </li>
+</ol>
+
+<br>
+<br>
+
 ## Software & Datasets
 
 <ol reversed>
@@ -135,6 +142,7 @@ Jarnevich, C.S., LaRoe, J., **Engelstad, P.**, Hays, B., Henderson, G., Williams
   <li>
 Evans, A., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., & Bradley, B.A. (2022). Shifting hotspots: Climate change projected to drive contractions and expansions of invasive plant abundance ranges. *Data and Datasets*. 157. <a href="https://doi.org/10.7275/f172-4c95" target="_blank">https://doi.org/10.7275/f172-4c95</a>
   </li>
+</ol>
 <br>
 
 </font>

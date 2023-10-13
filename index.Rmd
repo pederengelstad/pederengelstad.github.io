@@ -42,20 +42,33 @@ td, th {
 }
 </style>
 
-```{r}
-DT::datatable(
-  data.frame()
-)
+```{r, echo = F}
+library(kableExtra)
+
+dplyr::tibble(
+  Degree = c('PhD', 
+             'MS', 
+             'BA'),
+  
+  Subject = c('Ecology', 
+              'Watershed Science', 
+              'Anthropology'),
+  
+  School = c(
+    'Colorado State University',
+    'Colorado State University',
+    'University of Wisconsin-Madison'),
+  
+  'Year Graduated' = c('2027 (Anticipated)',
+                       '2018',
+                       '2006')
+) |>
+  kbl(align = 'l',
+      row.names = F,
+      col.names = NULL) |>
+  kable_styling(full_width = T,
+                bootstrap_options = c('responsive'))
 ```
-
-|              |               |                    |
-| ------------ | ------------- | ------------------ |
-| PhD - Ecology &nbsp; &nbsp; | Colorado State University | 2027 (anticipated)|
-|     &nbsp; &nbsp;   |   &nbsp; &nbsp;  |  &nbsp; &nbsp;   |
-| MS - Watershed Science       | Colorado State University    | 2018    |
-|     &nbsp; &nbsp;   |   &nbsp; &nbsp;  |  &nbsp; &nbsp;   |
-| BA - Anthropology       | University of Wisconsin-Madison    | 2006    |
-
 
 $~$
 

@@ -42,6 +42,11 @@ td, th {
 }
 </style>
 
+```{r}
+DT::datatable(
+  data.frame()
+)
+```
 
 |              |               |                    |
 | ------------ | ------------- | ------------------ |
@@ -57,8 +62,10 @@ $~$
 ## Publications
 
 
-<!-- ##### <u>Accepted/In Press</u> -->
+##### <u>Accepted/In Press</u>
+Evans, A.E., Jarnevich, C.S., Beaury, E.M., **Engelstad, P.**, Teich, N., LaRoe, J., Bradley, B. Shifting hotspots: Climate change projected to drive contractions and expansions of invasive plant abundance ranges. *Diversity and Distributions*.
 
+<br>
 
 ##### <u>Peer-Reviewed Journal Articles</u>
 

@@ -59,7 +59,7 @@ dplyr::tibble(
     'Colorado State University',
     'University of Wisconsin-Madison'),
   
-  'Year Graduated' = c('2027 (Anticipated)',
+  'Year Graduated' = c('2026 (Anticipated)',
                        '2018',
                        '2006')
 ) |>
@@ -75,14 +75,17 @@ $~$
 ## Publications
 
 
-##### <u>Accepted/In Press</u>
-Evans, A.E., Jarnevich, C.S., Beaury, E.M., **Engelstad, P.**, Teich, N., LaRoe, J., Bradley, B. Shifting hotspots: Climate change projected to drive contractions and expansions of invasive plant abundance ranges. *Diversity and Distributions*.
+<!-- ##### <u>In Review</u> -->
 
 <br>
 
 ##### <u>Peer-Reviewed Journal Articles</u>
 
 <ol reversed>
+  <li>
+Evans, A.E., Jarnevich, C.S., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., LaRoe, J.M., & Bradley, B.A. (2023). Shifting hotspots: Climate change projected to drive contractions and expansions of invasive plant abundance habitats. *Diversity and Distributions*, ddi.13787. <a href="https://doi.org/10.1111/ddi.13787" target="_blank">https://doi.org/10.1111/ddi.13787</a>
+  </li>
+<br>
   <li>
 Burner, R.C., Daniel, W.M., **Engelstad, P.S.**, Churchill, C.J., & Erickson, R.A. (2023). BioLake: A First Assessment of Lake Temperature-Derived Bioclimatic Predictors for Aquatic Invasive Species. *Ecosphere* 14(7): e4616. <a href="https://doi.org/10.1002/ecs2.4616" target="_blank">https://doi.org/10.1002/ecs2.4616</a>
   </li>

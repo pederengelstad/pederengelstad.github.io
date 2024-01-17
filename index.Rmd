@@ -1,6 +1,6 @@
 ---
 title: "Peder Engelstad"
-image: "39351080.jpeg"
+image: "profile2.jpg"
 # color1: "grey"
 # color2: "green"
 angle: 90
@@ -27,9 +27,12 @@ editor_options:
 <script src="https://kit.fontawesome.com/cf9d584ea2.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
+
 ## About Me
 
 I am a Research Associate in the <a href="https://www.vogelerlab.com/" target="_blank">Vogeler Lab</a> and a PhD student in the <a href="https://ecology.colostate.edu/" target="_blank">Graduate Degree Program in Ecology</a> at Colorado State University in Fort Collins, CO. I am also the primary developer on the <a href="https://gis.usgs.gov/inhabit" target="_blank"> Invasive Species Habitat Tool (INHABIT)</a>, a web-based decision support tool hosted by the USGS.
+
+My current research focus on species distribution modeling through the development of novel model assessment and extrapolation approaches, with a focus on terrestrial invasive plants species. Through these approaches I hope to improve our understanding the spatial processes underlying plant invasions and expand the utility of models for invasive species management.
 
 
 $~$

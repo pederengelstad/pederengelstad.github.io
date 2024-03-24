@@ -1,6 +1,6 @@
 ---
 title: "Peder Engelstad"
-image: "profile2.jpg"
+image: "peder_prague.jpg"
 # color1: "grey"
 # color2: "green"
 angle: 90
@@ -30,9 +30,9 @@ editor_options:
 
 ## About Me
 
-I am a Research Associate in the <a href="https://www.vogelerlab.com/" target="_blank">Vogeler Lab</a> and a PhD student in the <a href="https://ecology.colostate.edu/" target="_blank">Graduate Degree Program in Ecology</a> at Colorado State University in Fort Collins, CO. I am also the primary developer on the <a href="https://gis.usgs.gov/inhabit" target="_blank"> Invasive Species Habitat Tool (INHABIT)</a>, a web-based decision support tool hosted by the USGS.
+I am a Research Associate in the <a href="https://www.vogelerlab.com/" target="_blank">Vogeler Lab</a> and a PhD student in the <a href="https://ecology.colostate.edu/" target="_blank">Graduate Degree Program in Ecology</a> at Colorado State University in Fort Collins, CO. I am the primary developer on the <u><a href="https://gis.usgs.gov/inhabit" target="_blank"> Invasive Species Habitat Tool (INHABIT)</a></u>, a web-based decision support tool hosted by the USGS. I am also the primary developer and maintainer of <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">climatchR</a>, an R package for rapid climate comparisons during large scale risk assessments (e.g., horizon scans).
 
-My current research focus on species distribution modeling through the development of novel model assessment and extrapolation approaches, with a focus on terrestrial invasive plants species. Through these approaches I hope to improve our understanding the spatial processes underlying plant invasions and expand the utility of models for invasive species management.
+My current research focuses on the development of new and novel methods for the production, evaluation, and interpretation of species distribution models. Primarily, I work with models of invasive terrestrial plant species to better our understanding the spatial processes underlying plant invasions and improve the utility of models for practitioners tasked with the management of invasive species.
 
 
 $~$
@@ -78,7 +78,15 @@ $~$
 ## Publications
 
 
-<!-- ##### <u>In Review</u> -->
+##### <u>In Review</u>
+
+Daniel, W., Sofaer, H.S., Jarnevich, C.S., Erickson, R.E., DeGregorio, B., **Engelstad, P.S.**, … Lieurance, D. *Vertebrates in Trade Pose High Invasion Risk to the United States.*
+
+**Engelstad, P.**, Sofaer, H.R., Jarnevich, C.S. *#modelevaluation: generating spatial testing and cross-validation splits for ecological models using hashtag geometry.*
+
+Evangelista, P., Young, N., Schulte, D., Tricorache, P., Luizza, M., Durant, S., Jones, K., Mitchell, N., Maule, T., Abdullahi, A., Tesfai, R., **Engelstad, P**. *Mapping illegal trade routes of live cheetah (Acinonyx jubatus) from the Horn of Africa to the Arabian Peninsula.* 
+
+Williams, D.A., Shadwell, K.S., Pearse, I.S., Prevéy, J.S., **Engelstad, P.**, Henderson, G.C., &  Jarnevich, C.S. *Predictor Importance in Habitat Suitability Models for Invasive Terrestrial Plants.* 
 
 <br>
 

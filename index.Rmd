@@ -30,9 +30,9 @@ editor_options:
 
 ## About Me
 
-I am a Research Associate in the <a href="https://www.vogelerlab.com/" target="_blank">Vogeler Lab</a> and a PhD student in the <a href="https://ecology.colostate.edu/" target="_blank">Graduate Degree Program in Ecology</a> at Colorado State University in Fort Collins, CO. I am the primary developer on the <u><a href="https://gis.usgs.gov/inhabit" target="_blank"> Invasive Species Habitat Tool (INHABIT)</a></u>, a web-based decision support tool hosted by the USGS. I am also the primary developer and maintainer of <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">climatchR</a>, an R package for rapid climate comparisons during large scale risk assessments (e.g., horizon scans).
+I am a Research Associate in the <a href="https://www.vogelerlab.com/" target="_blank">Vogeler Lab</a> and a PhD student in the <a href="https://ecology.colostate.edu/" target="_blank">Graduate Degree Program in Ecology</a> at Colorado State University in Fort Collins, CO. I am the primary developer on the <u><a href="https://gis.usgs.gov/inhabit" target="_blank"> Invasive Species Habitat Tool (INHABIT)</a></u>, a web-based decision support tool hosted by the USGS. I am also the primary developer and maintainer of <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">climatchR</a> and the <a href="https://pengelstad.shinyapps.io/gdpe_casst/" target="_blank">GDPE Course Archive and Syllabus Search Tool (CASST).</a>
 
-My current research focuses on the development of new and novel methods for the production, evaluation, and interpretation of species distribution models. Primarily, I work with models of invasive terrestrial plant species to better our understanding of the spatial processes underlying plant invasions and improve the utility of models for practitioners tasked with the management of invasive species.
+My current research focuses on the development of new and novel methods for the production, evaluation, and interpretation of species distribution models. Primarily, I work with models of invasive terrestrial plant species to better our understanding of the spatial processes and patterns underlying plant invasions. The ideal outcome of this work is to both contribute to the research community and  improve the utility of models for practitioners tasked with the management of invasive species.
 
 
 $~$
@@ -75,26 +75,31 @@ dplyr::tibble(
 
 $~$
 
-## Publications
-
-
-##### <u>In Review</u>
-
-Daniel, W., Sofaer, H.S., Jarnevich, C.S., Erickson, R.E., DeGregorio, B., **Engelstad, P.S.**, … Lieurance, D. *Vertebrates in Trade Pose High Invasion Risk to the United States.*
-
-**Engelstad, P.**, Sofaer, H.R., Jarnevich, C.S. *#modelevaluation: generating spatial testing and cross-validation splits for ecological models using hashtag geometry.*
-
-Evangelista, P., Young, N., Schulte, D., Tricorache, P., Luizza, M., Durant, S., Jones, K., Mitchell, N., Maule, T., Abdullahi, A., Tesfai, R., **Engelstad, P**. *Mapping illegal trade routes of live cheetah (Acinonyx jubatus) from the Horn of Africa to the Arabian Peninsula.* 
-
-Williams, D.A., Shadwell, K.S., Pearse, I.S., Prevéy, J.S., **Engelstad, P.**, Henderson, G.C., &  Jarnevich, C.S. *Predictor Importance in Habitat Suitability Models for Invasive Terrestrial Plants.* 
-
-<br>
-
-##### <u>Peer-Reviewed Journal Articles</u>
+## Software & Datasets
 
 <ol reversed>
   <li>
-Evans, A.E., Jarnevich, C.S., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., LaRoe, J.M., & Bradley, B.A. (2023). Shifting hotspots: Climate change projected to drive contractions and expansions of invasive plant abundance habitats. *Diversity and Distributions*, ddi.13787. <a href="https://doi.org/10.1111/ddi.13787" target="_blank">https://doi.org/10.1111/ddi.13787</a>
+**Engelstad P.**, Jarnevich, C., Sofaer, H., Daniel, W., Peterman, L., Erickson, R.A. (2023). climatchR: An implementation of CLIMATCH in R. v2.0. U.S. Geological Survey software release. Reston, VA. <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">https://doi.org/10.5066/P9ILPPTC</a>
+  </li>
+<br>
+  <li>
+Jarnevich, C.S., LaRoe, J., **Engelstad, P.**, Hays, B., Henderson, G., Williams, D., Shadwell, K., Pearse, I.S., Prevey, J.S.,  & Sofaer, H.R. (2023). INHABIT species potential distribution across the contiguous United States (ver. 3.0, February 2023): U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P9V54H5K" target="_blank">https://doi.org/10.5066/P9V54H5K</a>
+  </li>
+<br>
+  <li>
+Evans, A., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., & Bradley, B.A. (2022). Shifting hotspots: Climate change projected to drive contractions and expansions of invasive plant abundance ranges. *Data and Datasets*. 157. <a href="https://doi.org/10.7275/f172-4c95" target="_blank">https://doi.org/10.7275/f172-4c95</a>
+  </li>
+</ol>
+
+## Peer-Reviewed Publications
+
+<ol reversed>
+  <li>
+Williams, D.A., Shadwell, K.S., Pearse, I.S., Prevéy, J.S., **Engelstad, P.**, Henderson, G.C., & Jarnevich, C.S. (2024). Predictor importance in habitat suitability models for invasive terrestrial plants. *Diversity and Distributions*, e13906. <a href="https://doi.org/10.1111/ddi.13906" target="_blank">https://doi.org/10.1111/ddi.13906</a>
+  </li>
+<br>
+  <li>
+Evans, A.E., Jarnevich, C.S., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., LaRoe, J.M., & Bradley, B.A. (2024). Shifting hotspots: Climate change projected to drive contractions and expansions of invasive plant abundance habitats. *Diversity and Distributions*, ddi.13787. <a href="https://doi.org/10.1111/ddi.13787" target="_blank">https://doi.org/10.1111/ddi.13787</a>
   </li>
 <br>
   <li>
@@ -159,24 +164,6 @@ Woodward, B., **Engelstad, P.**, Vorster, A., Beddow, C., Krail, S., Vashisht, A
   </li>
 </ol>
 
-<br>
-<br>
-
-## Software & Datasets
-
-<ol reversed>
-  <li>
-**Engelstad P.**, Jarnevich, C., Sofaer, H., Daniel, W., Peterman, L., Erickson, R.A. (2023). climatchR: An implementation of CLIMATCH in R. v2.0. U.S. Geological Survey software release. Reston, VA. <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">https://doi.org/10.5066/P9ILPPTC</a>
-  </li>
-<br>
-  <li>
-Jarnevich, C.S., LaRoe, J., **Engelstad, P.**, Hays, B., Henderson, G., Williams, D., Shadwell, K., Pearse, I.S., Prevey, J.S.,  & Sofaer, H.R. (2023). INHABIT species potential distribution across the contiguous United States (ver. 3.0, February 2023): U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P9V54H5K" target="_blank">https://doi.org/10.5066/P9V54H5K</a>
-  </li>
-<br>
-  <li>
-Evans, A., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., & Bradley, B.A. (2022). Shifting hotspots: Climate change projected to drive contractions and expansions of invasive plant abundance ranges. *Data and Datasets*. 157. <a href="https://doi.org/10.7275/f172-4c95" target="_blank">https://doi.org/10.7275/f172-4c95</a>
-  </li>
-</ol>
 <br>
 
 </font>

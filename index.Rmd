@@ -32,7 +32,7 @@ editor_options:
 
 I am a Research Associate in the <a href="https://www.vogelerlab.com/" target="_blank">Vogeler Lab</a> and a PhD student in the <a href="https://ecology.colostate.edu/" target="_blank">Graduate Degree Program in Ecology</a> at Colorado State University in Fort Collins, CO. I am the primary developer on the <u><a href="https://gis.usgs.gov/inhabit" target="_blank"> Invasive Species Habitat Tool (INHABIT)</a></u>, a web-based decision support tool hosted by the USGS. I am also the primary developer and maintainer of <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">climatchR</a> and the <a href="https://pengelstad.shinyapps.io/gdpe_casst/" target="_blank">GDPE Course Archive and Syllabus Search Tool (CASST).</a>
 
-I consider myself a computational/quantitative ecologist working primarily with R programming to answer questions myriad question posed under the umbrella of spatial and invasion ecology. 
+I consider myself a quantitative ecologist working primarily with R programming to answer questions related to computational, spatial, and invasion ecology. 
 
 My current research focuses on the development of new and novel methods for the production, evaluation, and interpretation of species distribution models. Primarily, I work with models of invasive terrestrial plant species to better our understanding of the spatial processes and patterns underlying plant invasions. The ideal outcome of this work is to both contribute to the research community and  improve the utility of models for practitioners tasked with the management of invasive species.
 

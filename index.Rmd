@@ -1,6 +1,6 @@
 ---
 title: "Peder Engelstad"
-image: "peder_prague.jpg"
+image: "portrait.jpg"
 # color1: "grey"
 # color2: "green"
 angle: 90

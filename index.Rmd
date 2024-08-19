@@ -98,6 +98,10 @@ Evans, A., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., & Bradley, B.A. (2022
 
 <ol reversed>
   <li>
+  Evangelista, P., Young, N., Schulte, D., Tricorache, P., Luizza, M., Durant, S., Jones, K., Mitchell, N., Maule, T., Abdullahi, A., Tesfai, R., & **Engelstad, P**. (Accepted). Mapping illegal trade routes of live cheetah (*Acinonyx jubatus*) from the Horn of Africa to the Arabian Peninsula. *Conservation Biology*
+  </li>
+<br>
+  <li>
 Williams, D.A., Shadwell, K.S., Pearse, I.S., Prevéy, J.S., **Engelstad, P.**, Henderson, G.C., & Jarnevich, C.S. (2024). Predictor importance in habitat suitability models for invasive terrestrial plants. *Diversity and Distributions*, e13906. <a href="https://doi.org/10.1111/ddi.13906" target="_blank">https://doi.org/10.1111/ddi.13906</a>
   </li>
 <br>

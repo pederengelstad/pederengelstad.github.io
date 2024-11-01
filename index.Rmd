@@ -80,12 +80,12 @@ $~$
 ## Software & Datasets
 
 <ol reversed>
-  <li>
-**Engelstad P.**, Jarnevich, C., Sofaer, H., Daniel, W., Peterman, L., Erickson, R.A. (2023). climatchR: An implementation of CLIMATCH in R. v2.0. U.S. Geological Survey software release. Reston, VA. <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">https://doi.org/10.5066/P9ILPPTC</a>
+    <li>
+Jarnevich, C.S., **Engelstad, P.**, Williams, D.A., Shadwell, K.S., Reimer, C.J., Henderson, G.C., Prevéy, J.S., & Pearse, I.S. (2024) INHABIT species potential distribution across the contiguous United States (ver. 4.0, June 2024): U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P14HNEJF" target="_blank">https://doi.org/10.5066/P14HNEJF</a>
   </li>
 <br>
   <li>
-Jarnevich, C.S., LaRoe, J., **Engelstad, P.**, Hays, B., Henderson, G., Williams, D., Shadwell, K., Pearse, I.S., Prevey, J.S.,  & Sofaer, H.R. (2023). INHABIT species potential distribution across the contiguous United States (ver. 3.0, February 2023): U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P9V54H5K" target="_blank">https://doi.org/10.5066/P9V54H5K</a>
+**Engelstad P.**, Jarnevich, C., Sofaer, H., Daniel, W., Peterman, L., & Erickson, R.A. (2023). climatchR: An implementation of CLIMATCH in R. v2.0. U.S. Geological Survey software release. Reston, VA. <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">https://doi.org/10.5066/P9ILPPTC</a>
   </li>
 <br>
   <li>
@@ -98,7 +98,7 @@ Evans, A., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., & Bradley, B.A. (2022
 
 <ol reversed>
   <li>
-  Evangelista, P., Young, N., Schulte, D., Tricorache, P., Luizza, M., Durant, S., Jones, K., Mitchell, N., Maule, T., Abdullahi, A., Tesfai, R., & **Engelstad, P**. (Accepted). Mapping illegal trade routes of live cheetah (*Acinonyx jubatus*) from the Horn of Africa to the Arabian Peninsula. *Conservation Biology*
+Evangelista, P.H., Young, N.E., Schulte, D.K., Tricorache, P.D., Luizza, M.W., Durant, S.M., Jones, K.W., Mitchell, N., Maule, T., Ali, A.H., Tesfai, R.T., & **Engelstad, P.S.** (2024). Mapping illegal trade routes of live cheetahs from the Horn of Africa to the Arabian Peninsula. *Conservation Biology*, e14412. <a href="https://doi.org/10.1111/cobi.14412" target="_blank">https://doi.org/10.1111/cobi.14412</a>
   </li>
 <br>
   <li>

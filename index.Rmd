@@ -80,7 +80,7 @@ $~$
 ## Software & Datasets
 
 <ol reversed>
-    <li>
+  <li>
 Jarnevich, C.S., **Engelstad, P.**, Williams, D.A., Shadwell, K.S., Reimer, C.J., Henderson, G.C., Prevéy, J.S., & Pearse, I.S. (2024) INHABIT species potential distribution across the contiguous United States (ver. 4.0, June 2024): U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P14HNEJF" target="_blank">https://doi.org/10.5066/P14HNEJF</a>
   </li>
 <br>
@@ -97,6 +97,10 @@ Evans, A., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., & Bradley, B.A. (2022
 ## Peer-Reviewed Publications
 
 <ol reversed>
+  <li>
+Jarnevich C.S., **Engelstad P.**, Williams D., Shadwell K., Reimer C., Henderson G., Prevéy J.S., Pearse I.S. (2024) Predicted occurrence and abundance habitat suitability of invasive plants in the contiguous United States: updates for the INHABIT web tool. *NeoBiota* 96:261-278. <a href="https://doi.org/10.3897/neobiota.96.134842" target="_blank">https://doi.org/10.3897/neobiota.96.134842</a>
+  </li>
+  <br>
   <li>
 Evangelista, P.H., Young, N.E., Schulte, D.K., Tricorache, P.D., Luizza, M.W., Durant, S.M., Jones, K.W., Mitchell, N., Maule, T., Ali, A.H., Tesfai, R.T., & **Engelstad, P.S.** (2024). Mapping illegal trade routes of live cheetahs from the Horn of Africa to the Arabian Peninsula. *Conservation Biology*, e14412. <a href="https://doi.org/10.1111/cobi.14412" target="_blank">https://doi.org/10.1111/cobi.14412</a>
   </li>

@@ -98,7 +98,11 @@ Evans, A., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., & Bradley, B.A. (2022
 
 <ol reversed>
   <li>
-Jarnevich C.S., **Engelstad P.**, Williams D., Shadwell K., Reimer C., Henderson G., Prevéy J.S., Pearse I.S. (2024) Predicted occurrence and abundance habitat suitability of invasive plants in the contiguous United States: updates for the INHABIT web tool. *NeoBiota* 96:261-278. <a href="https://doi.org/10.3897/neobiota.96.134842" target="_blank">https://doi.org/10.3897/neobiota.96.134842</a>
+Daniel, W.M., Sofaer, H.R., Jarnevich, C.S., Erickson, R.A., DeGregorio, B.A., **Engelstad, P.S.**, Freedman, J., Canavan, S., Dean, E.M., … Lieurance, D. (2025). Vertebrates in trade that pose high invasion risk to the United States. *Biological Conservation*, 302, 110887. <a href="https://doi.org/10.1016/j.biocon.2024.110887" target="_blank">https://doi.org/10.1016/j.biocon.2024.110887</a>
+  </li>
+  <br>
+  <li>
+Jarnevich C.S., **Engelstad P.**, Williams D., Shadwell K., Reimer C., Henderson G., Prevéy J.S., Pearse I.S. (2024). Predicted occurrence and abundance habitat suitability of invasive plants in the contiguous United States: updates for the INHABIT web tool. *NeoBiota* 96:261-278. <a href="https://doi.org/10.3897/neobiota.96.134842" target="_blank">https://doi.org/10.3897/neobiota.96.134842</a>
   </li>
   <br>
   <li>

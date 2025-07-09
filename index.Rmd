@@ -9,6 +9,8 @@ links:
     url: "https://scholar.google.com/citations?user=kR_0IvYAAAAJ&hl=en"
   - label: '<i class="ai ai-researchgate-square ai-3x" style="color:#00a39e"></i>'
     url: "https://www.researchgate.net/profile/Peder-Engelstad"
+  - label: '<i class="fa-brands fa-orcid ai-3x" style="color:#A6CE39"></i>'
+    url: "https://orcid.org/0000-0002-3681-9216"
   - label: '<i class="fa fa-github fa-3x" style="color:#4B0082;"></i>'
     url: "https://github.com/pederengelstad"
   - label: '<i class="fa-brands fa-linkedin fa-3x" style="color:#0c64c4"></i>'
@@ -30,11 +32,11 @@ editor_options:
 
 ## About Me
 
-I am a Research Associate in the <a href="https://www.vogelerlab.com/" target="_blank">Vogeler Lab</a> and a PhD student in the <a href="https://ecology.colostate.edu/" target="_blank">Graduate Degree Program in Ecology</a> at Colorado State University in Fort Collins, CO. I am the primary developer on the <u><a href="https://gis.usgs.gov/inhabit" target="_blank"> Invasive Species Habitat Tool (INHABIT)</a></u>, a web-based decision support tool hosted by the USGS (link to recent presentation <a href="https://colostate-my.sharepoint.com/:v:/g/personal/pengel_colostate_edu/EWIoVWD8MxBLt9fJZiJsXj4BuYMBMY-YxWNH-EBk7Haiig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cM9JHo" target="_blank">here</a>). I am also the primary developer and maintainer of <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">climatchR</a> and the <a href="https://pengelstad.shinyapps.io/gdpe_casst/" target="_blank">GDPE Course Archive and Syllabus Search Tool (CASST).</a>
+I am a Research Associate in the <a href="https://www.vogelerlab.com/" target="_blank">Vogeler Lab</a> and a PhD candidate in the <a href="https://ecology.colostate.edu/" target="_blank">Graduate Degree Program in Ecology</a> at Colorado State University in Fort Collins, CO. I am the primary developer on the <u><a href="https://gis.usgs.gov/inhabit" target="_blank"> Invasive Species Habitat Tool (INHABIT)</a></u>, a web-based decision support tool hosted by the USGS (link to recent presentation <a href="https://colostate-my.sharepoint.com/:v:/g/personal/pengel_colostate_edu/EWIoVWD8MxBLt9fJZiJsXj4BuYMBMY-YxWNH-EBk7Haiig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cM9JHo" target="_blank">here</a>). I am also the primary developer and maintainer of <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">climatchR</a> and the <a href="https://pengelstad.shinyapps.io/gdpe_casst/" target="_blank">GDPE Course Archive and Syllabus Search Tool (CASST).</a>
 
 I consider myself a quantitative ecologist working primarily with R programming to answer questions related to computational, spatial, and invasion ecology. 
 
-My current research focuses on the development of new and novel methods for the production, evaluation, and interpretation of species distribution models. Primarily, I work with models of invasive terrestrial plant species to better our understanding of the spatial processes and patterns underlying plant invasions. The ideal outcome of this work is to both contribute to the research community and  improve the utility of models for practitioners tasked with the management of invasive species.
+My current research focuses on the development of new and novel methods for the production, evaluation, and interpretation of species distribution models. Primarily, I work with models of invasive terrestrial plant species to better our understanding of the spatial processes and patterns underlying plant invasions. The ideal outcome of this work is a dual contribution: 1) to the SDM research community and 2) to improve the utility of models for practitioners tasked with the management of invasive species.
 
 
 $~$
@@ -77,21 +79,10 @@ dplyr::tibble(
 
 $~$
 
-## Software & Datasets
+## Preprints
 
-<ol reversed>
-  <li>
-Jarnevich, C.S., **Engelstad, P.**, Williams, D.A., Shadwell, K.S., Reimer, C.J., Henderson, G.C., Prevéy, J.S., & Pearse, I.S. (2024) INHABIT species potential distribution across the contiguous United States (ver. 4.0, June 2024): U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P14HNEJF" target="_blank">https://doi.org/10.5066/P14HNEJF</a>
-  </li>
-<br>
-  <li>
-**Engelstad P.**, Jarnevich, C., Sofaer, H., Daniel, W., Peterman, L., & Erickson, R.A. (2023). climatchR: An implementation of CLIMATCH in R. v2.0. U.S. Geological Survey software release. Reston, VA. <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">https://doi.org/10.5066/P9ILPPTC</a>
-  </li>
-<br>
-  <li>
-Evans, A., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., & Bradley, B.A. (2022). Shifting hotspots: Climate change projected to drive contractions and expansions of invasive plant abundance ranges. *Data and Datasets*. 157. <a href="https://doi.org/10.7275/f172-4c95" target="_blank">https://doi.org/10.7275/f172-4c95</a>
-  </li>
-</ol>
+Prevéy, J.S., Reimer, C.J., **Engelstad, P.S.**, Belamaric, P.N., Hogan, T., LaRoe, J.M., Mumford, C.J., Sieracki, J.L., & Jarnevich, C.S. (2025). A Site Prioritization Tool for Invasive Species Management: Integrating Diverse Spatial Data to Improve Decision Making. <a href="https://doi.org/10.2139/ssrn.5342105" target="_blank">https://doi.org/10.2139/ssrn.5342105</a>
+
 <br>
 
 ## Peer-Reviewed Publications
@@ -165,6 +156,68 @@ Woodward, B., **Engelstad, P.**, Vorster, A., Beddow, C., Krail, S., Vashisht, A
 </ol>
 <br>
 
+<br>
+
+
+## Software & Datasets
+
+<ol reversed>
+  <li>
+Daniel, W.M., Sofaer, H.R., Jarnevich, C.S., Erickson, R.A., DeGregorio, B.A., **Engelstad, P.S.**, & Freedman, J. (2025). Horizon Scan for Vertebrates in Trade. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P1RKCVOJ" target="_blank">https://doi.org/10.5066/P1RKCVOJ</a>
+  </li>
+<br>
+  <li>
+Prevéy, J.S., Reimer, C.J., **Engelstad, P.S.**, Belamaric, P.N., Hogan, T., LaRoe, J.M., Mumford, C.J., Sieracki, J.L., and Jarnevich, C.S., 2025, Spatial data layers for a site prioritization tool for invasive species. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P13MG455" target="_blank">https://doi.org/10.5066/P13MG455</a>
+  </li>
+<br>
+  <li>
+Prevéy, J.S., Reimer, C.J., **Engelstad, P.S.**, Belamaric, P.N., Hogan, T., LaRoe, J.M., Mumford, C.J., Sieracki, J.L., and Jarnevich, C.S., 2025, Spatial data layers for a site prioritization tool for invasive species. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P13MG455" target="_blank">https://doi.org/10.5066/P13MG455</a>
+  </li>
+<br>
+  <li>
+Bradley, B.A., Evans, A.E., Jarnevich, C.S., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., & LaRoe, J.M. (2024). US non-native plant occurrence and abundance data and distribution maps for Eastern US species with current and future climate. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P14VVRES" target="_blank">https://doi.org/10.5066/P14VVRES</a>
+  </li>
+<br>
+  <li>
+Jarnevich, C.S., **Engelstad, P.**, Williams, D.A., Shadwell, K.S., Reimer, C.J., Henderson, G.C., Prevéy, J.S., & Pearse, I.S. (2024) INHABIT species potential distribution across the contiguous United States (ver. 4.0, June 2024): U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P14HNEJF" target="_blank">https://doi.org/10.5066/P14HNEJF</a>
+  </li>
+<br>
+  <li>
+Beaury, E., Jarnevich, C.S., Pearse, I.S., Evans, A., Teich, N., **Engelstad, P.**, LaRoe, J.M., Henderson, G., & Bradley, B. (2023). Thresholded abundance models for three invasive plant species in the United States. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P939IXCP" target="_blank">https://doi.org/10.5066/P939IXCP</a>
+  </li>
+<br>
+  <li>
+Jarnevich, C.S., **Engelstad, P.S.**, Henderson, G.C., Williams, D.A., Shadwell, K.S., Pearse, I.S., Prevéy, J.S., & Sofaer, H.R. (2023). Management summary table for INHABIT species potential distribution across the contiguous United States: Additional management units. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P9VDIXJT" target="_blank">https://doi.org/10.5066/P9VDIXJT</a>
+  </li>
+<br>
+  <li>
+Williams, D.A., Jarnevich, C.S., **Engelstad, P.S.**, Henderson, G.C., Shadwell, K.S., Pearse, I.S., & Prevéy, J.S. (2023). Potential distribution of Japanese brome (Bromus japonicus) across the contiguous United States (October 2023). U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P9HSW0AI" target="_blank">https://doi.org/10.5066/P9HSW0AI</a>
+  </li>
+<br>
+  <li>
+**Engelstad P.**, Jarnevich, C., Sofaer, H., Daniel, W., Peterman, L., & Erickson, R.A. (2023). climatchR: An implementation of CLIMATCH in R. v2.0. U.S. Geological Survey software release. Reston, VA. <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">https://doi.org/10.5066/P9ILPPTC</a>
+  </li>
+<br>
+  <li>
+Evans, A., Beaury, E.M., **Engelstad, P.S.**, Teich, N.B., & Bradley, B.A. (2022). Shifting hotspots: Climate change projected to drive contractions and expansions of invasive plant abundance ranges. *Data and Datasets*. 157. <a href="https://doi.org/10.7275/f172-4c95" target="_blank">https://doi.org/10.7275/f172-4c95</a>
+  </li>
+<br>
+  <li>
+Jarnevich, C.S., Laroe, J.M., **Engelstad, P.**, Hays, B.R., Henderson, G.C., Williams, D.A., Shadwell, K.S., Pearse, I.S., Prevéy, J.S., & Sofaer, H.R. (2022). INHABIT species potential distribution across the contiguous United States (ver. 3.0, updated on February 2023). U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P9V54H5K" target="_blank">https://doi.org/10.5066/P9V54H5K</a>
+  </li>
+<br>
+ <li>
+Jarnevich, C.S., Sofaer, H.R., Belamaric, P.N., & **Engelstad, P.S.** (2022). Data to create and evaluate distribution models for invasive species for different geographic extents. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P90AL0PN" target="_blank">https://doi.org/10.5066/P90AL0PN</a>
+  </li>
+<br>
+ <li>
+Jarnevich, C.S., Laroe, J.M., **Engelstad, P.S.**, & Sullivan, J.R. (2021). INHABIT species potential distribution across the contiguous United States. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P92476V6" target="_blank">https://doi.org/10.5066/P92476V6</a>
+  </li>
+<br>
+ <li>
+Jarnevich, C.S., Sofaer, H.R., & **Engelstad, P**. (2021). Presence and abundance data and models for four invasive plant species. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P9MVEPP4" target="_blank">https://doi.org/10.5066/P9MVEPP4</a>
+  </li>
+</ol>
 <br>
 
 ## Book Chapters

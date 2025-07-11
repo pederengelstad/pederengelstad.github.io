@@ -29,20 +29,15 @@ editor_options:
 <script src="https://kit.fontawesome.com/cf9d584ea2.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-
 ## About Me
 
-I am a Research Associate in the <a href="https://www.vogelerlab.com/" target="_blank">Vogeler Lab</a> and a PhD candidate in the <a href="https://ecology.colostate.edu/" target="_blank">Graduate Degree Program in Ecology</a> at Colorado State University in Fort Collins, CO. I am the primary developer on the <u><a href="https://gis.usgs.gov/inhabit" target="_blank"> Invasive Species Habitat Tool (INHABIT)</a></u>, a web-based decision support tool hosted by the USGS (link to recent presentation <a href="https://colostate-my.sharepoint.com/:v:/g/personal/pengel_colostate_edu/EWIoVWD8MxBLt9fJZiJsXj4BuYMBMY-YxWNH-EBk7Haiig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cM9JHo" target="_blank">here</a>). I am also the primary developer and maintainer of <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">climatchR</a> and the <a href="https://pengelstad.shinyapps.io/gdpe_casst/" target="_blank">GDPE Course Archive and Syllabus Search Tool (CASST).</a>
+  I am a Research Associate in the <a href="https://www.vogelerlab.com/" target="_blank">Vogeler Lab</a> and a PhD candidate in the <a href="https://ecology.colostate.edu/" target="_blank">Graduate Degree Program in Ecology</a> at Colorado State University in Fort Collins, CO. I am the primary developer on the <u><a href="https://gis.usgs.gov/inhabit" target="_blank"> Invasive Species Habitat Tool (INHABIT)</a></u>, a web-based decision support tool hosted by the USGS (link to recent presentation <a href="https://colostate-my.sharepoint.com/:v:/g/personal/pengel_colostate_edu/EWIoVWD8MxBLt9fJZiJsXj4BuYMBMY-YxWNH-EBk7Haiig?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cM9JHo" target="_blank">here</a>). I am also the primary developer and maintainer of <a href="https://doi.org/10.5066/P9ILPPTC" target="_blank">climatchR</a> and the <a href="https://pengelstad.shinyapps.io/gdpe_casst/" target="_blank">GDPE Course Archive and Syllabus Search Tool (CASST).</a>
 
 I consider myself a quantitative ecologist working primarily with R programming to answer questions related to computational, spatial, and invasion ecology. 
 
 My current research focuses on the development of new and novel methods for the production, evaluation, and interpretation of species distribution models. Primarily, I work with models of invasive terrestrial plant species to better our understanding of the spatial processes and patterns underlying plant invasions. The ideal outcome of this work is a dual contribution: 1) to the SDM research community and 2) to improve the utility of models for practitioners tasked with the management of invasive species.
 
-
-$~$
-
 ## Education
-
 <style>
 td, th {
    border: none!important;
@@ -167,11 +162,12 @@ Daniel, W.M., Sofaer, H.R., Jarnevich, C.S., Erickson, R.A., DeGregorio, B.A., *
   </li>
 <br>
   <li>
-Prevéy, J.S., Reimer, C.J., **Engelstad, P.S.**, Belamaric, P.N., Hogan, T., LaRoe, J.M., Mumford, C.J., Sieracki, J.L., and Jarnevich, C.S., 2025, Spatial data layers for a site prioritization tool for invasive species. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P13MG455" target="_blank">https://doi.org/10.5066/P13MG455</a>
+Prevéy, J.S., Reimer, C.J., **Engelstad, P.S.**, Belamaric, P.N., Hogan, T., LaRoe, J.M., Mumford, C.J., Sieracki, J.L., & Jarnevich, C.S. (2025). Spatial data layers for a site prioritization tool for invasive species. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P13MG455" target="_blank">https://doi.org/10.5066/P13MG455</a>
   </li>
 <br>
   <li>
-Prevéy, J.S., Reimer, C.J., **Engelstad, P.S.**, Belamaric, P.N., Hogan, T., LaRoe, J.M., Mumford, C.J., Sieracki, J.L., and Jarnevich, C.S., 2025, Spatial data layers for a site prioritization tool for invasive species. U.S. Geological Survey data release. <a href="https://doi.org/10.5066/P13MG455" target="_blank">https://doi.org/10.5066/P13MG455</a>
+  Reimer, C.J., **Engelstad, P.S.**, Prevéy, J.S., & Jarnevich, C.S. (2025). Visualizing a site prioritization tool for invasive species management: code for an R shiny application (Version 1.0.0): U.S. Geological Survey software release. 
+<!-- <a href="https://doi.org/10.5066/P13MG455" target="_blank">https://doi.org/10.5066/P13MG455</a> -->
   </li>
 <br>
   <li>
